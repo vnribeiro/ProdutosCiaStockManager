@@ -7,7 +7,7 @@ using ProdutosCiaStockManager.Infrastructure.Data;
 namespace ProdutosCiaStockManager.API.Extensions;
 
 /// <summary>
-/// Provides extension methods for configuring various aspects of the application, such as API versioning, Swagger, and environment settings.
+/// Provides extension methods for configuring various aspects of the application, such as API versioning, Swagger, environment settings and database connection.
 /// </summary>
 public static class AppConfigurationExtensions
 {
