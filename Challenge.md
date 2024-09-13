@@ -1,4 +1,4 @@
-# Desafio Backend - Produtos e CIA
+# Desafio Backend
 
 ## Descrição do Projeto
 
